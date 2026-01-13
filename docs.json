@@ -11,12 +11,12 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Documentation",
+        "tab": "Project Solace",
         "groups": [
           {
-            "group": "Founding",
+            "group": "Foundation",
             "pages": [
-              "founding"
+              "foundation/founding-document"
             ]
           }
         ]
@@ -32,12 +32,7 @@
   },
   "navbar": {
     "links": [
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
+    ]
   },
   "contextual": {
     "options": [
